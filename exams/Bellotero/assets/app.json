@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "tabs": [
+            {
+                "text": "Testimonial",
+                "route": "page-testimonial"
+            },
+            {
+                "text": "Configurator",
+                "route": "page-configurator"
+            },
+            {
+                "text": "Share with us",
+                "route": "#"
+            },
+            {
+                "text": "About",
+                "route": "#"
+            }
+        ]
+    }
+}

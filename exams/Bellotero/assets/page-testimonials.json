@@ -1,0 +1,17 @@
+{
+    "slider": {
+        "title": "Meet our customers",
+        "reviews": [
+            {
+                "name": "John Duo",
+                "position": "DevOps Manager",
+                "comment": "Veniam enim non irure commodo elit qui aliqua eiusmod magna do sunt aliqua ad. Consequat non velit do velit est ex. Deserunt aliqua anim voluptate ullamco. Pariatur velit ullamco enim et ipsum eu eu Lorem veniam magna. Laboris cillum nostrud pariatur est. Cillum esse nisi veniam qui occaecat. Pariatur nostrud amet elit non amet eiusmod eu tempor nisi excepteur velit pariatur."
+            },
+            {
+                "name": "Maria Os",
+                "position": "CEO Operation",
+                "comment": "Aliqua consectetur enim qui labore aliqua ullamco ad amet sunt. Velit aliquip esse nulla consequat consequat. Ad cupidatat pariatur mollit id nulla enim ea nostrud laborum non eu do ad.."
+            }
+        ]
+    }
+}
